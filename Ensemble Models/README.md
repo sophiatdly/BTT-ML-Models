@@ -13,13 +13,15 @@ This project uses a preprocessed version of the Airbnb NYC listings dataset (air
 
 The target value is price, which represents the listing price for an Airbnb, which is a continuous variable for the regression task.
 
-### Results
+### Model Performance Summary:
 
-- Stacking / RMSE: 12.35 / R²: 0.78
-- Linear Regression / RMSE: 15.65 / R²: 0.72
-- Decision Tree / RMSE: 13.80 / R²: 0.75
-- GBDT / RMSE: 12.15 / R²: 0.80
-- Random Forest / RMSE: 11.85 / R²: 0.82
+| Model              | RMSE  | R²   |
+|--------------------|-------|------|
+| Stacking           | 12.35 | 0.78 |
+| Linear Regression  | 15.65 | 0.72 |
+| Decision Tree      | 13.80 | 0.75 |
+| Gradient Boosted DT| 12.15 | 0.80 |
+| Random Forest      | 11.85 | 0.82 |
 
 ### Analysis
 
