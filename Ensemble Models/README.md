@@ -15,11 +15,11 @@ The target value is price, which represents the listing price for an Airbnb, whi
 
 ### Results
 
-- Stacking              RMSE: 12.35	    R²: 0.78
-- Linear Regression	    RMSE: 15.65	    R²: 0.72
-- Decision Tree	        RMSE: 13.80	    R²: 0.75
-- GBDT	                RMSE: 12.15	    R²: 0.80
-- Random Forest	        RMSE: 11.85	    R²: 0.82
+- Stacking / RMSE: 12.35 / R²: 0.78
+- Linear Regression / RMSE: 15.65 / R²: 0.72
+- Decision Tree / RMSE: 13.80 / R²: 0.75
+- GBDT / RMSE: 12.15 / R²: 0.80
+- Random Forest / RMSE: 11.85 / R²: 0.82
 
 ### Analysis
 
