@@ -36,5 +36,5 @@ Scikit-learn Implementation:
 
 #### Runtime Comparison
 
-My Implementation: ~33 ms per loop
-Scikit-learn Implementation: ~101 ms per loop
+- My Implementation: ~33 ms per loop
+- Scikit-learn Implementation: ~101 ms per loop
