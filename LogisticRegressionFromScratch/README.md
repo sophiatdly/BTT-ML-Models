@@ -29,7 +29,7 @@ The fitted weights and intercept from both my implementation and scikit-learn's 
 My Implementation:
 - Weights: [0.5669, 0.4923, 0.2016, 0.2555, -0.0059, 1.7159, 0.2648]
 - Intercept: -1.8291
-- 
+  
 Scikit-learn Implementation:
 - Weights: [0.5669, 0.4922, 0.2015, 0.2556, -0.0059, 1.7159, 0.2648]
 - Intercept: -1.8291
